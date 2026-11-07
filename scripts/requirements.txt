@@ -1,0 +1,2 @@
+# Testado em 02/11/2026 com Python 3.11.9 e python-docx 1.2.0 (licença MIT).
+python-docx>=1.2,<2

@@ -1,0 +1,41 @@
+{
+  "_como_preencher": "Preencha só com o que você aprovou. Deixe vazio ou escreva A CONFIRMAR no que ainda não sabe: o gerador destaca em amarelo. Valores em dinheiro vão entre aspas, ex.: \"R$ 1.800,00\". Para mais itens, copie um bloco { } e separe com vírgula.",
+  "fornecedor": {
+    "nome": "",
+    "responsavel": "",
+    "contato": "",
+    "documento": ""
+  },
+  "cliente": {
+    "nome": "",
+    "contato": ""
+  },
+  "proposta": {
+    "titulo": "",
+    "numero": "",
+    "data": "",
+    "validade": ""
+  },
+  "contexto": "",
+  "objetivo": "",
+  "entregaveis": [
+    {"item": "", "descricao": ""}
+  ],
+  "fora_do_escopo": [""],
+  "responsabilidades_fornecedor": [""],
+  "responsabilidades_cliente": [""],
+  "etapas": [
+    {"etapa": "", "prazo": ""}
+  ],
+  "investimento": {
+    "itens": [
+      {"descricao": "", "valor": ""}
+    ],
+    "total": "",
+    "forma_pagamento": "",
+    "observacoes": ""
+  },
+  "condicoes": [""],
+  "proximo_passo": "",
+  "mensagem_envio": ""
+}

@@ -1,0 +1,57 @@
+{
+  "fornecedor": {
+    "nome": "",
+    "responsavel": "",
+    "contato": "",
+    "documento": ""
+  },
+  "cliente": {
+    "nome": "",
+    "contato": ""
+  },
+  "proposta": {
+    "titulo": "",
+    "numero": "",
+    "data": "",
+    "validade": ""
+  },
+  "contexto": "",
+  "objetivo": "",
+  "entregaveis": [
+    {
+      "item": "",
+      "descricao": ""
+    }
+  ],
+  "fora_do_escopo": [
+    ""
+  ],
+  "responsabilidades_fornecedor": [
+    ""
+  ],
+  "responsabilidades_cliente": [
+    ""
+  ],
+  "etapas": [
+    {
+      "etapa": "",
+      "prazo": ""
+    }
+  ],
+  "investimento": {
+    "itens": [
+      {
+        "descricao": "",
+        "valor": ""
+      }
+    ],
+    "total": "",
+    "forma_pagamento": "",
+    "observacoes": ""
+  },
+  "condicoes": [
+    ""
+  ],
+  "proximo_passo": "",
+  "mensagem_envio": ""
+}

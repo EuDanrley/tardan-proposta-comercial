@@ -1,0 +1,60 @@
+{
+  "_aviso": "EXEMPLO 100% FICTÍCIO. Empresas, pessoas, valores e condições inventados para demonstração.",
+  "fornecedor": {
+    "nome": "Estúdio Ladrilho Web (fictício)",
+    "responsavel": "Carla Nunes, sócia",
+    "contato": "contato@ladrilho.exemplo · (11) 90000-0000",
+    "documento": ""
+  },
+  "cliente": {
+    "nome": "Distribuidora Ponto Norte (fictícia)",
+    "contato": "Rafael, gerente comercial"
+  },
+  "proposta": {
+    "titulo": "Proposta — Formulário de pedidos de orçamento",
+    "numero": "2026-017",
+    "data": "20/10/2026",
+    "validade": "15 dias a partir da data da proposta"
+  },
+  "contexto": "A Distribuidora Ponto Norte quer receber pedidos de orçamento pelo site, reunindo nome da empresa, contato e descrição do pedido. Quantidade de usuários, integrações, prazo e orçamento disponível ainda não foram definidos pelo cliente.",
+  "objetivo": "Centralizar os pedidos de orçamento num formulário do site, com aviso por e-mail e registro em planilha, para a equipe comercial responder a partir de um só lugar.",
+  "entregaveis": [
+    {"item": "Formulário de pedido de orçamento", "descricao": "Publicado no site atual do cliente, com os campos: empresa, nome do contato, e-mail, telefone e descrição do pedido."},
+    {"item": "Aviso por e-mail", "descricao": "Um e-mail a cada pedido recebido, enviado para o endereço do cliente: A CONFIRMAR (quem recebe)."},
+    {"item": "Planilha de pedidos", "descricao": "Planilha online com todos os pedidos recebidos pelo formulário."},
+    {"item": "Orientação da equipe", "descricao": "1 hora de orientação por videochamada para a equipe do cliente."},
+    {"item": "Ajustes", "descricao": "Até 2 rodadas de ajuste de texto e campos."}
+  ],
+  "fora_do_escopo": [
+    "Integração com CRM ou sistema de gestão (orçada em proposta separada, depois que o cliente definir o sistema).",
+    "Hospedagem e domínio (o cliente já possui)."
+  ],
+  "responsabilidades_fornecedor": [
+    "Criar, publicar e testar o formulário, o aviso por e-mail e a planilha.",
+    "Conduzir a orientação de 1 hora por videochamada."
+  ],
+  "responsabilidades_cliente": [
+    "Enviar acesso ao site para a publicação do formulário.",
+    "Indicar o e-mail que receberá os avisos.",
+    "Aprovar os textos e campos do formulário."
+  ],
+  "etapas": [
+    {"etapa": "Aprovação da proposta e pagamento da primeira parcela", "prazo": "A CONFIRMAR"},
+    {"etapa": "Criação, publicação e testes do formulário", "prazo": "A CONFIRMAR — depende do envio do acesso ao site"},
+    {"etapa": "Orientação da equipe e entrega", "prazo": "A CONFIRMAR"}
+  ],
+  "investimento": {
+    "itens": [
+      {"descricao": "Formulário, aviso por e-mail, planilha, orientação de 1 hora e até 2 rodadas de ajuste", "valor": "R$ 1.800,00"}
+    ],
+    "total": "R$ 1.800,00",
+    "forma_pagamento": "50% na aprovação e 50% na entrega.",
+    "observacoes": "Integração com CRM, se desejada, será orçada à parte."
+  },
+  "condicoes": [
+    "Validade desta proposta: 15 dias a partir da data da proposta.",
+    "Ajustes além das 2 rodadas incluídas: A CONFIRMAR (valor não definido)."
+  ],
+  "proximo_passo": "Confirmar a aprovação desta proposta e enviar o acesso ao site e o e-mail que receberá os avisos. Com isso, informamos a data de entrega.",
+  "mensagem_envio": "Olá, Rafael, tudo bem?\nSegue em anexo a proposta do formulário de pedidos de orçamento, com escopo, investimento e condições.\nPara definirmos a data de entrega, preciso do acesso ao site e do e-mail que vai receber os avisos.\nQualquer dúvida, estou à disposição.\nCarla — Estúdio Ladrilho Web"
+}
